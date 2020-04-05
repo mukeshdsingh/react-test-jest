@@ -1,5 +1,5 @@
 ## Document
-Open [React_UnitTest.pdf](React_UnitTest.pdf) to view document. 
+Open [React_UnitTest.pdf](React_UnitTest.pdf) to setup react testing. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
